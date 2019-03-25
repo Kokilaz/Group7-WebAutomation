@@ -1,0 +1,9 @@
+Reporting/ExtentTestManager.class
+Reporting/ExtentManager.class
+Databases/User.class
+Reporting/TestLogger.class
+Databases/ConnectToSqlDB.class
+Base/CommonAPI.class
+Utility/DataReader.class
+Reporting/ApplicationLog.class
+Databases/ConnectToMongoDB.class
